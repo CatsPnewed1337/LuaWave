@@ -18,5 +18,8 @@ FreeHurt dll and some parts from code are deleted, because I dont want to give a
 ### Build
 Just use visual studio from Microsoft
 
+### Links
+[MEGA Mirror](https://mega.nz/file/KrRESbhJ#V1jWN2UHHqWEW6bEcJM6sVj1iYcGRpDAtkpOqTUYpNE) | [Github Mirror](https://github.com/CatsPnewed1337/LuaWave/blob/main/LuaWave%20(Discontiuned).zip?raw=true)
+
 
 </div>
